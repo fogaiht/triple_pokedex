@@ -1,8 +1,8 @@
 import 'package:flutter_modular/flutter_modular_test.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:poke_api/app/modules/splash_screen/splash_screen_controller.dart';
-import 'package:poke_api/app/modules/splash_screen/splash_screen_module.dart';
+import 'package:triple_pokedex/app/modules/splash_screen/splash_screen_controller.dart';
+import 'package:triple_pokedex/app/modules/splash_screen/splash_screen_module.dart';
 
 void main() {
   initModule(SplashScreenModule());

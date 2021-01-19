@@ -2,11 +2,11 @@ import 'package:dio/dio.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
 
-import 'package:poke_api/app/modules/home/home_repository.dart';
-import 'package:poke_api/app/shared/auth/auth_interceptor.dart';
-import 'package:poke_api/app/shared/auth/http_provider.dart';
-import 'package:poke_api/app/shared/custom_dio/custom_dio.dart';
-import 'package:poke_api/app/shared/models/user_model.dart';
+import 'package:triple_pokedex/app/modules/home/home_repository.dart';
+import 'package:triple_pokedex/app/shared/auth/auth_interceptor.dart';
+import 'package:triple_pokedex/app/shared/auth/http_provider.dart';
+import 'package:triple_pokedex/app/shared/custom_dio/custom_dio.dart';
+import 'package:triple_pokedex/app/shared/models/user_model.dart';
 
 import '../../payloads/payloads.dart';
 
